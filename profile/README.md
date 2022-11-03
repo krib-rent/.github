@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Visit [krib.rent](https://krib.rent) to get started!
+
 <!--
 
 **Here are some ideas to get you started:**
